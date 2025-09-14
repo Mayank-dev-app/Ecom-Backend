@@ -11,6 +11,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://ecommerce-6cax.vercel.app",
+      "https://vercel.com/mayank-dev-apps-projects/ecom-frontend",
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     credentials: true,
